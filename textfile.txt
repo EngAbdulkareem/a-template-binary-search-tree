@@ -1,0 +1,3 @@
+Illustration example
+This example is to help you in the assign.
+The example will show you how to form the BST
